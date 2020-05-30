@@ -1,4 +1,4 @@
-# Tabuada
+#Tabuada
 
 num = int(input('Digite um número: '))
 
